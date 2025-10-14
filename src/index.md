@@ -32,6 +32,7 @@ I am a Masters student studying Computer Science, more specifically studying pro
 > [!NOTE]
 > This page is currently under construction. This is mostly due to the fact that my academic life is
 > under construction
+> As such, the main purpose of this page is to serve as sort of a CV until I'm in a position to actively contribute
 
 # Education
 
@@ -41,4 +42,14 @@ I am a Masters student studying Computer Science, more specifically studying pro
 
 # Teaching
 
-- Hopeful I can start being a tutor within my university's tutoring program, but nothin concrete _yet_
+- Hopeful I can start being a tutor within my university's tutoring program, but nothing concrete _yet_
+
+# ~~Publications~~ Research Projects
+
+> [!NOTE]
+> None of the projects shown below are verified, formal publications.
+> Those are research projects I've led in the context of specific classes at university, each project corresponding to a different class
+
+- Using mathematics to build musical scales and chords (2022, in French) [to be added]()
+- Cyclic Correcting Codes (2024, in French) [to be added]()
+- Semantics of Objects for C++ memory layout (2025, in English) [to be added]()
