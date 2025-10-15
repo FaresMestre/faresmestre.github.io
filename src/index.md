@@ -34,6 +34,29 @@ I am a Masters student studying Computer Science, more specifically studying pro
 > under construction
 > As such, the main purpose of this page is to serve as sort of a CV until I'm in a position to actively contribute
 
+# Interests
+
+As stated previously, I am study programming languages, though this initial description can be a bit vague.
+To provide greater detail, I'm mostly interested in all that surrounds the design and implementation of programming languages.
+A non exhaustive list would include :
+- Parsing
+- Compilation
+- Interpretation
+- Semantics
+- Verification
+
+Of course, I do not limit myself to this field only. I am also competent in Software Engineering and Network Protocols, as those are
+fields my Masters program allows me to study. Beyond computer science, I am also someone who enjoys partaking in artistic endeavor, 
+such as music, 3D modeling, and 3D animation, though I am very much a self-taught amateur in those fields.
+
+I also care for the ethics of computer related technologies ; As such, I gravitate towards the use of Free (as in Freedom) and Open
+Source Software, motivate optimisation not only with performance, but also power efficiency, and avoid the mainstream uses of
+Generative Machine Learning altogether. Just because others do it, does not mean I should.
+Along with that, I am also quite fond of transparency in software, not just through freedom of use or source code availability, but also
+via accessibility for the general public. What I mean by that, is that for users to enjoy the freedom of their software, they must
+be able to understand what that freedom entails, and how to make use of it. Education is a major factor towards freedom and emancipation,
+and to that end, I am more than willing to share my knowledge with everyone, regardless of their initial knowledge in the field.
+
 # Education
 
 - Baccalauréat, with Mathematics and Physics/Chemistry as primary modules, with high honors
