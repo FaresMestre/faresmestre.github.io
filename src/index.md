@@ -72,7 +72,10 @@ and to that end, I am more than willing to share my knowledge with everyone, reg
 > [!NOTE]
 > None of the projects shown below are verified, formal publications.
 > Those are research projects I've led in the context of specific classes at university, each project corresponding to a different class
+> Also, a majority of them were done at a time before I knew to archive and back up my assignments. As such, many will have some
+> unfinished aspects or be simply missing after. I have since then learned my lesson.
 
-- Using mathematics to build musical scales and chords (2022, in French) [to be added]()
-- Cyclic Correcting Codes (2024, in French) [to be added]()
-- Semantics of Objects for C++ memory layout (2025, in English) [to be added]()
+- Using mathematics to build musical scales and chords (2022, in French, incomplete) [presentation](Influence_des_Maths_sur_la_Musique.pdf)
+- Researching and implementing algorithmic music generation (2023, in Frenglish, almost complete) [presentation](Generative_Music.pdf) [code](code_music_generator.tar)
+- Cyclic Correcting Codes (2024, in Python (I only salvaged the code)) [code](implem_hamming.py)
+- Semantics of Objects for C++ memory layout (2025, in English) [presentation](The_Semantics_of_Object_Oriented_Programming_for_Memory_Management.pdf)
