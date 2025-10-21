@@ -65,7 +65,7 @@ and to that end, I am more than willing to share my knowledge with everyone, reg
 
 # Teaching
 
-- Hopeful I can start being a tutor within my university's tutoring program, but nothing concrete _yet_
+- I tutor every Friday from 12:30 to 14:30, mainly for L1 and L2 computer science students from Paris-Cité
 
 # ~~Publications~~ Research Projects
 
@@ -77,5 +77,5 @@ and to that end, I am more than willing to share my knowledge with everyone, reg
 
 - Using mathematics to build musical scales and chords (2022, in French, incomplete) [presentation](files/Influence_des_Maths_sur_la_Musique.pdf)
 - Researching and implementing algorithmic music generation (2023, in Frenglish, almost complete) [presentation](files/Generative_Music.pdf) [code](files/code_music_generator.tar)
-- Cyclic Correcting Codes (2024, in Python (I only salvaged the code)) [code](files/implem_hamming.py)
-- Semantics of Objects for C++ memory layout (2025, in English) [presentation](files/The_Semantics_of_Object_Oriented_Programming_for_Memory_Management.pdf)
+- Cyclic Correcting Codes (2024, in Python (I could only salvage the code)) [code](files/implem_hamming.py)
+- Semantics of Objects for C++ memory layout (2025, in English, complete) [presentation](files/The_Semantics_of_Object_Oriented_Programming_for_Memory_Management.pdf)
