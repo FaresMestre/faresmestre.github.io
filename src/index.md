@@ -63,6 +63,16 @@ and to that end, I am more than willing to share my knowledge with everyone, reg
 - Double License Mathematics and Computer Science, CS passed with high honors, Math passed with passable mention
 - First Year of "Langages et Programmation" Masters with high honors
 
+## Languages spoken
+
+I use the following languages daily as a fluent speaker :
+- English
+- French (native)
+
+I have studied these languages in the past, but am not yet fluent :
+- German
+- Italian
+
 # Teaching
 
 - I tutor every Friday from 12:30 to 14:30, mainly for L1 and L2 computer science students from Paris-Cité
