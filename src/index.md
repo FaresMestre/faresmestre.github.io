@@ -75,7 +75,7 @@ I have studied these languages in the past, but am not yet fluent :
 
 # Teaching
 
-- I tutor every Friday from 12:30 to 14:30, mainly for L1 and L2 computer science students from Paris-Cité
+- I tutored computer science mainly for L1 and L2 students from Paris-Cité, between October and December 2025
 
 # ~~Publications~~ Research Projects
 
@@ -89,3 +89,6 @@ I have studied these languages in the past, but am not yet fluent :
 - Researching and implementing algorithmic music generation (2023, in Frenglish, almost complete) [presentation](files/Generative_Music.pdf) [code](files/code_music_generator.tar)
 - Cyclic Correcting Codes (2024, in Python (I could only salvage the code)) [code](files/implem_hamming.py)
 - Semantics of Objects for C++ memory layout (2025, in English, complete) [presentation](files/The_Semantics_of_Object_Oriented_Programming_for_Memory_Management.pdf)
+- Focus on verified compilers, specifically CompCert and CakeML (2026, in French, complete) [presentation](files/Presentation_Compilateurs_Vérifiés.pdf) [pseudo-code](files/sample_verif_comp.v)
+- Rust in the Linux kernel (2026, in French, complete) [presentation](files/rust_in_linux_kernel.pdf)
+- Twofold presentation on Pushdown Normal Form Bisimulation (2026, in English, complete) [part 1](files/pres_pdnf_bisim.pdf) [part2](files/pres_pdnf_bisim_part2.pdf)
