@@ -6,7 +6,7 @@ description-meta: Masters Student in Computer Science
 og-url: https://faresmestre.github.io
 location: Université Paris-Cité, campus Grands-Moulins
 email: fares.mestre@etu.u-paris.fr
-picture: no
+picture: img/pfp.jpg
 picture-round: false
 side-by-side: true
 pronouns: He/They
@@ -29,14 +29,9 @@ footer: >-
 
 I am a Masters student studying Computer Science, more specifically studying programming languages
 
-> [!NOTE]
-> This page is currently under construction. This is mostly due to the fact that my academic life is
-> under construction
-> As such, the main purpose of this page is to serve as sort of a CV until I'm in a position to actively contribute
-
 # Interests
 
-As stated previously, I am study programming languages, though this initial description can be a bit vague.
+As stated previously, I study programming languages, though this initial description can be a bit vague.
 To provide greater detail, I'm mostly interested in all that surrounds the design and implementation of programming languages.
 A non exhaustive list would include :
 - Parsing
@@ -77,18 +72,21 @@ I have studied these languages in the past, but am not yet fluent :
 
 - I tutored computer science mainly for L1 and L2 students from Paris-Cité, between October and December 2025
 
-# ~~Publications~~ Research Projects
+# Current Occupations
+
+I am currently in my Masters internship, on the topic of the [Typst](https://typst.app/) document language under 
+[Gabriel Scherer](https://gallium.inria.fr/~scherer/). The goal of this internship is to isolate a core sublanguage and formalize it by 
+providing a grammar and semantics. From that, we could then provide a critique of the language, and give ideas for improvement. If you 
+are interested in our progress, or simply curious, our files are publicly available on my 
+[Codeberg Page](https://codeberg.org/Fares_Mestre).
+
+# Research Projects
 
 > [!NOTE]
 > None of the projects shown below are verified, formal publications.
-> Those are research projects I've led in the context of specific classes at university, each project corresponding to a different class
-> Also, a majority of them were done at a time before I knew to archive and back up my assignments. As such, many will have some
-> unfinished aspects or be simply missing after. I have since then learned my lesson.
+> Those are research projects I've led in the context of specific classes at university.
 
-- Using mathematics to build musical scales and chords (2022, in French, incomplete) [presentation](files/Influence_des_Maths_sur_la_Musique.pdf)
-- Researching and implementing algorithmic music generation (2023, in Frenglish, almost complete) [presentation](files/Generative_Music.pdf) [code](files/code_music_generator.tar)
-- Cyclic Correcting Codes (2024, in Python (I could only salvage the code)) [code](files/implem_hamming.py)
-- Semantics of Objects for C++ memory layout (2025, in English, complete) [presentation](files/The_Semantics_of_Object_Oriented_Programming_for_Memory_Management.pdf)
-- Focus on verified compilers, specifically CompCert and CakeML (2026, in French, complete) [presentation](files/Presentation_Compilateurs_Vérifiés.pdf) [pseudo-code](files/sample_verif_comp.v)
-- Rust in the Linux kernel (2026, in French, complete) [presentation](files/rust_in_linux_kernel.pdf)
-- Twofold presentation on Pushdown Normal Form Bisimulation (2026, in English, complete) [part 1](files/pres_pdnf_bisim.pdf) [part2](files/pres_pdnf_bisim_part2.pdf)
+- Semantics of Objects for C++ memory layout (2025, in English) [presentation](files/The_Semantics_of_Object_Oriented_Programming_for_Memory_Management.pdf)
+- Focus on verified compilers, specifically CompCert and CakeML (2026, in French) [presentation](files/Presentation_Compilateurs_Vérifiés.pdf) [pseudo-code](files/sample_verif_comp.v)
+- Rust in the Linux kernel (2026, in French) [presentation](files/rust_in_linux_kernel.pdf)
+- Twofold presentation on Pushdown Normal Form Bisimulation (2026, in English) [part 1](files/pres_pdnf_bisim.pdf) [part2](files/pres_pdnf_bisim_part2.pdf)
